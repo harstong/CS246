@@ -16,12 +16,12 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-<<<<<<< HEAD
+//<<<<<<< HEAD
         System.out.println("Hello gitHub");
-=======
+//=======
         System.out.println("Hello gitHub World");
         System.out.println("testing");
->>>>>>> test
+//>>>>>>> test
     }
     
 }
